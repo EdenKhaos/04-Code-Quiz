@@ -6,10 +6,10 @@ Live Site:
      https://EdenKhaos.github.io/wk4-code-quiz/
    
 Code Repo: 
-     https://github.com/EdenKhaos/wk4-Code-Quiz
+     https://github.com/EdenKhaos/wk4-code-quiz
   
 Issues & Explanation:
-     https://github.com/EdenKhaos/wk4-Code-Quiz/blob/master/README.md
+     https://github.com/EdenKhaos/wk4-code-quiz/blob/master/README.md
 
 ```
 ## Narrative to try to accomplish:
@@ -19,7 +19,7 @@ Issues & Explanation:
 4. If a question is answered incorrectly then some time is subtracted from the timer.
 5. If the timer runs out to 0 or all questions are answered the game is over.
 6. When the game is over the user initials and score can be saved.
-7. all questions and answers are originally stored here https://github.com/EdenKhaos/wk4-Code-Quiz/blob/master/Quiz%20Questions.txt
+7. all questions and answers are originally stored here https://github.com/EdenKhaos/wk4-code-quiz/blob/master/Quiz%20Questions.txt
 
 ## Issues Found
 ```
