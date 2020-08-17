@@ -1,15 +1,15 @@
-# wk4-Code Quiz
+# 04-Code-Quiz
 
 ## Links:
 ```
 Live Site: 
-     https://EdenKhaos.github.io/wk4-code-quiz/
+     https://edenkhaos.github.io/04-Code-Quiz/
    
 Code Repo: 
-     https://github.com/EdenKhaos/wk4-code-quiz
+     https://github.com/EdenKhaos/04-Code-Quiz
   
 Issues & Explanation:
-     https://github.com/EdenKhaos/wk4-code-quiz/blob/master/README.md
+     https://github.com/EdenKhaos/04-Code-Quiz/blob/master/README.md
 
 ```
 ## Narrative to try to accomplish:
